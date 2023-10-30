@@ -1,0 +1,26 @@
+SMAP
+etudiantForm_jsp.java
+JSP
+*S JSP
+*F
++ 0 etudiantForm.jsp
+etudiantForm.jsp
++ 1 header.jsp
+template/header.jsp
++ 2 menu.jsp
+template/menu.jsp
+*L
+1,18:53
+1#1,8:70
+18#0:77
+5#2,12:78
+19#0,43:90
+62,2:134
+63,18:136
+81,2:155
+82,2:157
+84,8:159,3
+92,2:183
+94,2:186
+95,8:188
+*E

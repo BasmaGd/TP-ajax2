@@ -1,0 +1,21 @@
+[{
+        "id": 1,
+        "reference": "DE333",
+        "dateAchat": "oct. 1, 2019",
+        "prix": 3000.0,
+        "marque": {
+            "id": 5,
+            "code": "DELL",
+            "libelle": "DELL"
+        }
+    }, {
+        "id": 5,
+        "reference": "e",
+        "dateAchat": "oct. 3, 2019",
+        "prix": 5000.0,
+        "marque": {
+            "id": 5,
+            "code": "DELL",
+            "libelle": "DELL"
+        }
+    }]

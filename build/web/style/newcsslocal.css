@@ -1,0 +1,45 @@
+/* Style pour le conteneur */
+fieldset {
+    width: 50%;
+    margin: auto;
+}
+
+/* Style pour le tableau */
+.tab {
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-family: Arial;
+    width: 100%;
+}
+
+.tab td, .tab th {
+    border: 1px solid black;
+    padding: 10px 15px;
+    font-family: Arial;
+}
+
+.tab tr:nth-child(2n), .tab tr:nth-child(2n + 1) {
+    background-color: azure;
+}
+
+/* Style pour les boutons */
+.bnupdate, .bndelete {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-family: Arial;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    width: auto;
+}
+
+.bnupdate {
+    background-color: #4CAF50;
+}
+
+.bndelete {
+    background-color: coral;
+}

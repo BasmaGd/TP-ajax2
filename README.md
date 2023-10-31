@@ -1,5 +1,5 @@
 # TP-ajax2
-## Gestion des etudiants
+## Gestion des étudiants
 ![WhatsApp Image 2023-10-31 at 00 11 57](https://github.com/BasmaGd/TP-ajax2/assets/118211411/c8dba080-c9c8-441f-8d47-d7146cf6c9c5)
 ![WhatsApp Image 2023-10-31 at 00 08 26](https://github.com/BasmaGd/TP-ajax2/assets/118211411/7a91b4cc-4fca-4b32-a80b-a2b21b511992)
 ![WhatsApp Image 2023-10-31 at 00 08 41](https://github.com/BasmaGd/TP-ajax2/assets/118211411/1e256b85-ff21-42b3-b853-8bba7de9c279)
@@ -17,7 +17,7 @@ Suppression
 ![marque](https://github.com/BasmaGd/TP-ajax2/assets/118211411/2b7166d5-bc0d-4dcc-9eab-760e58f94a73)
 
 ![filtr-marq](https://github.com/BasmaGd/TP-ajax2/assets/118211411/12fe2a1b-7e1f-4b42-9d61-b5b988b5c608)
-## Gestion des references
+## Gestion des références
 ![WhatsApp Image 2023-10-31 at 00 32 17](https://github.com/BasmaGd/TP-ajax2/assets/118211411/c8c88385-1e50-4c87-9e8a-e593a2f34ae2)
 ![WhatsApp Image 2023-10-31 at 00 42 51](https://github.com/BasmaGd/TP-ajax2/assets/118211411/0018833b-90a4-4d30-8c4b-5ffff4d64c98)
 ![WhatsApp Image 2023-10-31 at 00 45 31](https://github.com/BasmaGd/TP-ajax2/assets/118211411/2e7bc4d4-be00-4849-9333-7e94a5cae2b8)

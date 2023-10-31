@@ -23,8 +23,7 @@ Suppression
 ![WhatsApp Image 2023-10-31 at 00 45 31](https://github.com/BasmaGd/TP-ajax2/assets/118211411/2e7bc4d4-be00-4849-9333-7e94a5cae2b8)
 ![filtr-ref](https://github.com/BasmaGd/TP-ajax2/assets/118211411/f924866a-a6da-424e-aae3-32f0b8b5376b)
 ## Graphe de nombre de machine par marque
-![WhatsApp Image 2023-10-30 at 23 49 23](https://github.com/BasmaGd/TP-ajax2/assets/118211411/f57e614f-75bd-461a-a8a8-9e137db9400a)
-
+![WhatsApp Image 2023-10-31 at 01 09 21](https://github.com/BasmaGd/TP-ajax2/assets/118211411/03b05efb-91db-4fa1-81cb-ee557121180b)
 
 
 # Description de projet

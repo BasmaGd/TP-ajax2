@@ -31,16 +31,16 @@ Suppression
 Cette application web est conçue pour la gestion des étudiants, des marques de machines et des machines individuelles. Elle offre une interface web permettant de créer, lire, mettre à jour et supprimer des informations sur les étudiants et les marques de machines. Les utilisateurs peuvent également filtrer les machines par marque ou par référence. De plus, l'application propose des visualisations sous forme de graphiques à barres et de camemberts pour afficher la répartition des machines par marque.
 
 # Technologies Used
-Java
-JSP (JavaServer Pages)
-Hibernate
-MySQL (Database)
-HTML
-CSS
-JavaScript
-jQuery
-AJAX
-GlassFish (Application Server)
-Key Features
-CRUD
-Graphical representation of machine distribution by brand (bar graphs and pie charts).# TP-ajax2
+- Java
+- JSP (JavaServer Pages)
+- Hibernate
+- MySQL (Database)
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- AJAX
+-GlassFish (Application Server)
+- Key Features
+- CRUD
+- Graphical representation of machine distribution by brand (bar graphs and pie charts).# TP-ajax2
